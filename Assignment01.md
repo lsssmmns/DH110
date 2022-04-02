@@ -17,7 +17,7 @@ It is mainly separated into three pages: music theory, lessons, and music theory
 Heuristic & Description | DaCapoAlCoda Heuristic Evaluation | Improvement 
 --------------------------|---------------------------|------------
 **Visibility of system status:** The web/app gives the user feedback in a timely manner concerning the actions they are currently doing. | **Good:** **Bad:** | **Improvement:** 
-**User control and freedom:** User has options, such as undo or redo. | **Good:** \n **Bad:** | **Improvement:** 
+**User control and freedom:** User has options, such as undo or redo. | **Good:**  **Bad:** | **Improvement:** 
 **Consistency and standards:** Design and usage is consistent across all pages of the web/app. | **Good:** **Bad:** | **Improvement:** 
 **Error prevention:** Provide safety nets for user, such as confirming an action. | **Good:** **Bad:** | **Improvement:** 
 **Recognition rather than recall:** Provide suggestions or context in actions. | **Good:** **Bad:** | **Improvement:** 
