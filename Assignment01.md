@@ -32,38 +32,47 @@ It is mainly separated into three pages: music theory, lessons, and music theory
   * **Good:** The games have a progress bar showing 
   * **Bad:**
   * **Improvement:** 
+
 **2. Match Between System and the Real World** 
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **3. User control and freedom** 
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **4. Consistency and standards** 
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **5. Error prevention** 
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **6. Recognition rather than recall** 
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **7. Flexibility and efficiency of use**  
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **8. Aesthetic and minimalist design**  
   * **Good:** 
   * **Bad:**
   * **Improvement:** 
+
 **9. Help users recognize, diagnose, and recover from errors** 
   * **Good:**
   * **Bad:**
   * **Improvement:** 
+
 **10. Help and documentation** 
   * **Good:**
   * **Bad:**
