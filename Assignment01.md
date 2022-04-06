@@ -135,7 +135,7 @@ It is mainly separated into five pages: home, about, start here, easy chords and
   * **Improvement:** Properly center the blocks. 
 
 **9. Help users recognize, diagnose, and recover from errors** 
-  * **Good:** If the user is sending a voice message and they did not enable microphone access, an error message occurs explaining this which includes a button which enables the microphone when pressed. When a user tries to input an email that doesn't follow the _@_.com/_@_.net/etc format an error message occurs asking the user to check the formatting.
+  * **Good:** If the user is sending a voice message and they did not enable microphone access, an error message occurs explaining this which includes a button which enables the microphone when pressed. When a user tries to input an email that doesn't follow the blank@blank.com/blank@blank.net/etc format an error message occurs asking the user to check the formatting.
   * **Bad:** When a user's link is to a nonexistent page there is no error warning explaining what happened. Instead there is only a blank page.
   * **Improvement:** Create a 404 page not found error message informing the user to check the site path because the page they searched for does not exist.
 
