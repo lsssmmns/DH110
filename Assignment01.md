@@ -26,7 +26,7 @@ It uses simple games to teach pitch, tempo, and sight reading.
 It is mainly separated into three pages: music theory, lessons, and music theory games.* 
 
 <!-- add image of website -->
-![DaCapoAlCoda](DaCapoAlCoda.png)
+![DaCapoAlCoda](photos/DaCapoAlCoda.png)
 
 #### Evaluation
 *Summary: Overall DaCapoAlCoda has a long way to go in terms of usability. There is a lot of information on the site as music theory is a broad topic that people spend years studying so the main usability issues have to do with organization of the content. Fixing minor issues like adding documentation or fixing grammatical errors can allow DaCapoAlCoda to be an incredible resource for learning music theory in a fun and creative environment.*
@@ -90,7 +90,7 @@ It uses simple lessons with videos and sound clips to teach guitar theory and ch
 It is mainly separated into five pages: home, about, start here, easy chords and contact.*
 
 <!-- add image of website -->
-![National Guitar Academy Screenshot](NationalGuitarAcademy.png)
+![National Guitar Academy Screenshot](photos/NationalGuitarAcademy.png)
 
 #### Evaluation 
 *Summary:*
