@@ -93,59 +93,57 @@ It is mainly separated into five pages: home, about, start here, easy chords and
 ![National Guitar Academy Screenshot](photos/NationalGuitarAcademy.png)
 
 #### Evaluation 
-*Summary:*
+*Summary: Overall National Guitar Academy is a fairly user friendly website, but the page organization is lacking. In order to make the site truly user friendly, it's important that users have a more efficient way to navigate through the site. Otherwise many of the issues were fairly surface level and easily fixed.*
 
 **1. Visibility of system status** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** Audio clips show how far along in the recording the user is. When videos are loading a spinning circle appears so the user knows the action is loading.
+  * **Bad:** Lessons typically span at least two pages and no indication of how far in the lesson the user has progressed is given. In the guitar quiz the progress bar does not accurately show progress on the quiz. Despite the quiz being 10 questions long, the progress bar is over 50% full after the first question is answered. There is also no way of determining where the user is on the site at any time.
+  * **Improvement:** Either condense lessons to be more manageable or separate them into sections so progress can be shown as the user scrolls through the lesson so they don't become bored and give up because the lesson seems neverending. Update the guitar quiz progress bar to be proportional to the progress through the quiz. Add an arrow sequence to the top of the page so the user knows where exactly they are in the site.
 
 **2. Match Between System and the Real World** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** The icons used match what would generally be expected (YouTube is represented by a triangle in a rounded rectangle, etc).
+  * **Bad:** Sometimes fails to define certain music theory terms before using them like sharp/flat so a novice could be easily confused.
+  * **Improvement:** Define all the music terms in a little popup that can be viewed when hovering over the word so as not to clutter the page but also provide information if the user desires it.
 
 **3. User control and freedom** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Bad:** Users can only exit the quiz if they refresh the page. 
+  * **Improvement:** Add an exit button to the quiz. 
 
 **4. Consistency and standards** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** Generally the lessons follow the same format: a bullet point outline of what the lesson contains followed by the content.
+  * **Bad:** The style of the chord diagram changes based on the page, which can be confusing to a new learner.
+  * **Improvement:** Standardize the chord diagram. Organize the lessons such that the individual sections of the lesson can link with the bullet point outline so the user can choose what they want to learn based on past knowledge. 
 
 **5. Error prevention** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** If the user inputs the wrong link and it is close enough to another page name it will automatically take you to that existing page. For example [https://nationalguitaracademy.com/guitar/](url) will autocorrect to [https://nationalguitaracademy.com/guitar-arpeggios/](url).
+  * **Bad:** When entering an email incorrectly there is no way to know because the site doesn’t send a confirmation email or ask the user if all the information is correct.
+  * **Improvement:** Send a confirmation email when joining the mailing list asking the user to confirm and change the post-signup message informing the user to check their inbox.
 
 **6. Recognition rather than recall** 
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** All questions in the quiz are multiple choice, so the user don't have to remember them on their own.
+  * **Bad:** The user has to remember how to get to certain lessons in the website, because there is no easy way to see all the pages in the website.
+  * **Improvement:** Create an organized site map linking all the pages together and add it to the footer so it can be accessed from anywhere on the site.
 
 **7. Flexibility and efficiency of use**  
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** The quiz has shortcuts such that the user can type in the corresponding letter/number instead of dragging and clicking on the answers.
+  * **Bad:** There is no shortcut to get to the top of the page, which would be useful on the long lessons.
+  * **Improvement:** Add a shortcut to get to the top of the page.
 
 **8. Aesthetic and minimalist design**  
-  * **Good:** 
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** The site is fairly minimal. The start here page is well organized and simple.
+  * **Bad:** Certain blocks are not centered properly which can make them difficult to read and use. 
+  * **Improvement:** Properly center the blocks. 
 
 **9. Help users recognize, diagnose, and recover from errors** 
-  * **Good:**
-  * **Bad:**
-  * **Improvement:** 
+  * **Good:** If the user is sending a voice message and they did not enable microphone access, an error message occurs explaining this which includes a button which enables the microphone when pressed. When a user tries to input an email that doesn't follow the _@_.com/_@_.net/etc format an error message occurs asking the user to check the formatting.
+  * **Bad:** When a user's link is to a nonexistent page there is no error warning explaining what happened. Instead there is only a blank page.
+  * **Improvement:** Create a 404 page not found error message informing the user to check the site path because the page they searched for does not exist.
 
 **10. Help and documentation** 
-  * **Good:**
-  * **Bad:**
-  * **Improvement:** 
+  * **Bad:** There is no help or documentation. The only help offered would be via contacting the site runners through their message board.
+  * **Improvement:** Add a FAQ page which can be accessed in the footer from anywhere on the site. Could add a glossary of guitar music terms to the footer as well.
 
 #### Severity Rating 
-1. Top Priority: 
-2. Important to Fix: 
-3. Small Inconvenience:
+1. Top Priority: Visibility of system status; Recognition rather than recall
+2. Important to Fix: Match Between System and the Real World; Error prevention; Help users recognize, diagnose, and recover from errors
+3. Small Inconvenience: User control and freedom; Consistency and standards; Flexibility and efficiency of use; Aesthetic and minimalist design; Help and documentation
