@@ -115,7 +115,7 @@ It is mainly separated into five pages: home, about, start here, easy chords and
   * **Improvement:** Standardize the chord diagram. Organize the lessons such that the individual sections of the lesson can link with the bullet point outline so the user can choose what they want to learn based on past knowledge. 
 
 **5. Error prevention** 
-  * **Good:** If the user inputs the wrong link and it is close enough to another page name it will automatically take you to that existing page. For example [https://nationalguitaracademy.com/guitar/](url) will autocorrect to [https://nationalguitaracademy.com/guitar-arpeggios/](url).
+  * **Good:** If the user inputs the wrong link and it is close enough to another page name it will automatically take you to that existing page. For example [https://nationalguitaracademy.com/guitar/](https://nationalguitaracademy.com/guitar/) will autocorrect to [https://nationalguitaracademy.com/guitar-arpeggios/](https://nationalguitaracademy.com/guitar-arpeggios/).
   * **Bad:** When entering an email incorrectly there is no way to know because the site doesn’t send a confirmation email or ask the user if all the information is correct.
   * **Improvement:** Send a confirmation email when joining the mailing list asking the user to confirm and change the post-signup message informing the user to check their inbox.
 
